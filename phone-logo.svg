@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="512" height="512" rx="128" fill="#2563EB"/>
+    <!-- Corpo do celular -->
+    <rect x="156" y="96" width="200" height="320" rx="24" stroke="white" stroke-width="24"/>
+    <!-- Tela -->
+    <rect x="176" y="136" width="160" height="240" rx="8" fill="white" fill-opacity="0.2"/>
+    <!-- Botão home -->
+    <circle cx="256" cy="396" r="16" fill="white"/>
+    <!-- Camera -->
+    <circle cx="256" cy="116" r="8" fill="white"/>
+    <!-- Reflexo na tela -->
+    <path d="M176 136L336 376" stroke="white" stroke-width="2" stroke-opacity="0.1"/>
+    <!-- Botões de volume -->
+    <rect x="136" y="196" width="8" height="40" rx="4" fill="white"/>
+    <rect x="136" y="246" width="8" height="40" rx="4" fill="white"/>
+</svg>
